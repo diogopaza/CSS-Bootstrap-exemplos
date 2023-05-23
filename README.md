@@ -1,6 +1,6 @@
-# classes-bootstrap-exemplos
 
-<h2>Bootsratp</h2>
+
+<h2>Bootstrap</h2>
 
 <h3><strong>btn-block</strong></h3>
 <p>A classe btn block ajustou os dois botões, de forma que esses tivessem a mesma largura dentro da div. Por serem palavras diferentes os botões ficavam com tamanhos diferentes.</p>
