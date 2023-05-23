@@ -17,7 +17,7 @@
 = aqui ênfase na propriedade appendTo. Ess propriedade permite controlar onde o calendário será renderizado no DOM. Neste exemplo está sendo instruído o PrimeNG renderizar o calendário como um elemento filho direto no 'body'. Técnica útil para evitar que o calendário seja afetado por estilos ou elementos pai que possam limitar sua exibição.</p>
 
 <img src="https://github.com/diogopaza/Estudos-Exemplos-Css-Bootstrap-e-Angular/blob/main/imagens/calendario-correta-new.png" width="200px" />
-<p style="color:red">Calendário exibido corretamente dentro de uma tabela após a aplicação da propriedade appenTo="body"</p>
+<p>Calendário exibido corretamente dentro de uma tabela após a aplicação da propriedade appenTo="body"</p>
 
 
 
