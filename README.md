@@ -14,7 +14,9 @@
 
 <p><strong> 
 &lt;p-calendar [(ngModel)]="date" appendTo="body">&lt;/p-calendar></strong>
-= aqui Ênfase na propriedade appendTo. Ess propriedade permite controlar onde o calendário será renderizado no DOM. Neste exemplo está sendo instruído o PrimeNG renderizar o calendário como um elemento filho direto no 'body'. Técnica útil para evitar que o calendário seja afetado por estilos ou elementos pai que possam limitar sua exibição.</p>
+= aqui ênfase na propriedade appendTo. Ess propriedade permite controlar onde o calendário será renderizado no DOM. Neste exemplo está sendo instruído o PrimeNG renderizar o calendário como um elemento filho direto no 'body'. Técnica útil para evitar que o calendário seja afetado por estilos ou elementos pai que possam limitar sua exibição.</p>
+
+<img src="https://github.com/diogopaza/Estudos-Exemplos-Css-Bootstrap-e-Angular/blob/main/imagens/calendario-correta.png">
 
 
 
