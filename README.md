@@ -24,7 +24,7 @@
 
 <h2>Javascript</h2>
 <p><strong>const divBotoes = botao.closest('.esconder') as HTMLElement;</strong> === método <strong>closest</strong> busca o elemento pai através da classe passada como parâmetro no método.</p>
-<p>No exemplo da imagem um evento é acionado (click no botao), este evento é guardado em uma variável chamada botao, logo após é chamado o método <strong>closest</strong> para guardar na varável divBotoes o elemento acima com contendo a classe esconder. Para finalizar é setado como display = none a variável divBotoes, ou seja, essa div é escondida não aparece na tela para o usuário.</p>
+<p>No exemplo da imagem um evento é acionado (click no botao), este evento é guardado em uma variável chamada botao, logo após é chamado o método <strong>closest</strong> para guardar na varável divBotoes o elemento acima do botao (variavel) contendo a classe esconder. Para finalizar é setado como display = none a variável divBotoes, ou seja, essa div é escondida não aparece na tela para o usuário.</p>
 <img src="https://github.com/diogopaza/Estudos-Exemplos-Css-Bootstrap-e-Angular/blob/main/imagens/closest.png" width="400px"/>
 
 <hr width="50%">
