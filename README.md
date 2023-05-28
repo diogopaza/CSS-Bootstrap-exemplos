@@ -22,5 +22,10 @@
 <img src="https://github.com/diogopaza/Estudos-Exemplos-Css-Bootstrap-e-Angular/blob/main/imagens/calendario-correta-new.png" width="200px" />
 <p>Calendário exibido corretamente dentro de uma tabela após a aplicação da propriedade appenTo="body"</p>
 
+<h2>Javascript</h2>
+<p><strong>const divBotoes = botao.closest('.esconder') as HTMLElement;</strong> === método <strong>closest</strong> busca o elemento pai do evento acionado.</p>
+<img src="">
+
+
 
 
